@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python and catalog assets
+/.venv/
+__pycache__/
+*.py[cod]
+/katalok.pdf
